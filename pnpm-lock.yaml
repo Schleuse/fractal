@@ -84,8 +84,8 @@ importers:
         specifier: ^2.5.2
         version: 2.5.2
       minimist:
-        specifier: ^1.2.8
-        version: 1.2.8
+        specifier: ^1.2.6
+        version: 1.2.6
       mixwith:
         specifier: ^0.1.1
         version: 0.1.1
@@ -325,8 +325,8 @@ importers:
         specifier: ^2.0.3
         version: 2.0.3
       minimist:
-        specifier: ^1.2.5
-        version: 1.2.5
+        specifier: ^1.2.6
+        version: 1.2.8
       mixwith:
         specifier: ^0.1.1
         version: 0.1.1
@@ -8247,8 +8247,8 @@ packages:
       kind-of: 6.0.3
     dev: true
 
-  /minimist@1.2.5:
-    resolution: {integrity: sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==}
+  /minimist@1.2.6:
+    resolution: {integrity: sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==}
     dev: false
 
   /minimist@1.2.8:
