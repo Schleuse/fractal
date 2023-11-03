@@ -57,8 +57,8 @@ importers:
         specifier: ^7.3.3
         version: 7.3.3
       istextorbinary:
-        specifier: ^6.0.0
-        version: 6.0.0
+        specifier: ^7.0.0
+        version: 7.0.0
       js-beautify:
         specifier: ^1.14.9
         version: 1.14.9
@@ -304,8 +304,8 @@ importers:
         specifier: ^11.9.0
         version: 11.9.0
       istextorbinary:
-        specifier: ^6.0.0
-        version: 6.0.0
+        specifier: ^7.0.0
+        version: 7.0.0
       js-yaml:
         specifier: ^4.1.0
         version: 4.1.0
@@ -3488,8 +3488,8 @@ packages:
     resolution: {integrity: sha512-jDctJ/IVQbZoJykoeHbhXpOlNBqGNcwXJKJog42E5HDPUwQTSdjCHdihjj0DlnheQ7blbT6dHOafNAiS8ooQKA==}
     engines: {node: '>=8'}
 
-  /binaryextensions@4.18.0:
-    resolution: {integrity: sha512-PQu3Kyv9dM4FnwB7XGj1+HucW+ShvJzJqjuw1JkKVs1mWdwOKVcRjOi+pV9X52A0tNvrPCsPkbFFQb+wE1EAXw==}
+  /binaryextensions@4.19.0:
+    resolution: {integrity: sha512-DRxnVbOi/1OgA5pA9EDiRT8gvVYeqfuN7TmPfLyt6cyho3KbHCi3EtDQf39TTmGDrR5dZ9CspdXhPkL/j/WGbg==}
     engines: {node: '>=0.8'}
     dev: false
 
@@ -6740,11 +6740,11 @@ packages:
     resolution: {integrity: sha512-WhB9zCku7EGTj/HQQRz5aUQEUeoQZH2bWcltRErOpymJ4boYE6wL9Tbr23krRPSZ+C5zqNSrSw+Cc7sZZ4b7vg==}
     engines: {node: '>=0.10.0'}
 
-  /istextorbinary@6.0.0:
-    resolution: {integrity: sha512-4j3UqQCa06GAf6QHlN3giz2EeFU7qc6Q5uB/aY7Gmb3xmLDLepDOtsZqkb4sCfJgFvTbLUinNw0kHgHs8XOHoQ==}
-    engines: {node: '>=10'}
+  /istextorbinary@7.0.0:
+    resolution: {integrity: sha512-RrJZgAttvlKBUoG8zGS2oyl12Exb1PJ6K6rSFH+9tEXadXMT/mRd0Lm4zwQN29jQyM6iGUFzL5HStEmismPNgw==}
+    engines: {node: '>=14'}
     dependencies:
-      binaryextensions: 4.18.0
+      binaryextensions: 4.19.0
       textextensions: 5.16.0
     dev: false
 
